@@ -9,7 +9,7 @@
   </header>
   <main class="container mx-auto px-4 pb-12">
     <section class="mb-12">
-      <ProgressBar :percent="10" />
+      <ProgressBar :percent="percent" />
     </section>
     <section>
       <ol>
