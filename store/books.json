@@ -4,332 +4,332 @@
 		{
 			"key": "Genesis",
 			"val": 1533,
-      "status": "complete"
+			"status": "complete"
 		},
 		{
 			"key": "Exodus",
 			"val": 1213,
-      "status": "complete"
+			"status": "complete"
 		},
 		{
 			"key": "Leviticus",
 			"val": 859,
-      "status": "in-progress"
+			"status": "complete"
 		},
 		{
 			"key": "Numbers",
 			"val": 1288,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Deuteronomy",
 			"val": 959,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Joshua",
 			"val": 658,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Judges",
 			"val": 618,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Ruth",
 			"val": 85,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "1 Samuel",
 			"val": 810,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "2 Samuel",
 			"val": 695,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "1 Kings",
 			"val": 816,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "2 Kings",
 			"val": 719,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "1 Chronicles",
 			"val": 942,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "2 Chronicles",
 			"val": 822,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Ezra",
 			"val": 280,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Nehemiah",
 			"val": 406,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Esther",
 			"val": 167,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Job",
 			"val": 1070,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Psalms",
 			"val": 2461,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Proverbs",
 			"val": 915,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Ecclesiastes",
 			"val": 222,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Song of Solomon",
 			"val": 117,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Isaiah",
 			"val": 1292,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Jeremiah",
 			"val": 1364,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Lamentations",
 			"val": 154,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Ezekiel",
 			"val": 1273,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Daniel",
 			"val": 357,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Hosea",
 			"val": 197,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Joel",
 			"val": 73,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Amos",
 			"val": 146,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Obadiah",
 			"val": 21,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Jonah",
 			"val": 48,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Micah",
 			"val": 105,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Nahum",
 			"val": 47,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Habakkuk",
 			"val": 56,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Zephaniah",
 			"val": 53,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Haggai",
 			"val": 38,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Zechariah",
 			"val": 211,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Malachi",
 			"val": 55,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Matthew",
 			"val": 1071,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Mark",
 			"val": 678,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Luke",
 			"val": 1151,
-      "status": "complete"
+			"status": "complete"
 		},
 		{
 			"key": "John",
 			"val": 879,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Acts",
 			"val": 1007,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Romans",
 			"val": 433,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "1 Corinthians",
 			"val": 437,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "2 Corinthians",
 			"val": 257,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Galatians",
 			"val": 149,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Ephesians",
 			"val": 155,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Philippians",
 			"val": 104,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Colossians",
 			"val": 95,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "1 Thessalonians",
 			"val": 89,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "2 Thessalonians",
 			"val": 47,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "1 Timothy",
 			"val": 133,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "2 Timothy",
 			"val": 83,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Titus",
 			"val": 46,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Philemon",
 			"val": 25,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Hebrews",
 			"val": 303,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "James",
 			"val": 108,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "1 Peter",
 			"val": 105,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "2 Peter",
 			"val": 61,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "1 John",
 			"val": 105,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "2 John",
 			"val": 13,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "3 John",
 			"val": 14,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Jude",
 			"val": 25,
-      "status": "incomplete"
+			"status": "incomplete"
 		},
 		{
 			"key": "Revelation",
 			"val": 404,
-      "status": "incomplete"
+			"status": "incomplete"
 		}
 	]
 }
