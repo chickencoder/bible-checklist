@@ -44,12 +44,12 @@
 		{
 			"key": "1 Samuel",
 			"val": 810,
-			"status": "incomplete"
+			"status": "complete"
 		},
 		{
 			"key": "2 Samuel",
 			"val": 695,
-			"status": "incomplete"
+			"status": "complete"
 		},
 		{
 			"key": "1 Kings",
@@ -199,7 +199,7 @@
 		{
 			"key": "Matthew",
 			"val": 1071,
-			"status": "incomplete"
+			"status": "complete"
 		},
 		{
 			"key": "Mark",
@@ -269,12 +269,12 @@
 		{
 			"key": "1 Timothy",
 			"val": 133,
-			"status": "incomplete"
+			"status": "complete"
 		},
 		{
 			"key": "2 Timothy",
 			"val": 83,
-			"status": "incomplete"
+			"status": "complete"
 		},
 		{
 			"key": "Titus",
