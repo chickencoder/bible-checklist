@@ -54,7 +54,7 @@
 		{
 			"key": "1 Kings",
 			"val": 816,
-			"status": "incomplete"
+			"status": "complete"
 		},
 		{
 			"key": "2 Kings",
@@ -239,7 +239,7 @@
 		{
 			"key": "Galatians",
 			"val": 149,
-			"status": "incomplete"
+			"status": "complete"
 		},
 		{
 			"key": "Ephesians",
